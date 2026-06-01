@@ -18,3 +18,6 @@
 ## Khi chọn vào đáp án
   - Khi đáp án đã có giá trị thì giá trị đó sẽ được remove khỏi đáp án
   - Khi 16 ô đáp án đủ giá trị thì button `Submit` sẽ được enabled, không đủ thì disabled
+
+## Demo
+https://kentrung.github.io/son-linh-reactjs-secret-recovery-phrase-metamask/
